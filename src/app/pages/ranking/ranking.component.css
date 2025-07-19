@@ -1,0 +1,51 @@
+.ranking {
+  padding: 30px;
+  max-width: 900px;
+  margin: 0 auto;
+  color: rgb(19, 1, 1);
+}
+
+.titulo {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.explicacao {
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 30px;
+  color: #383535;
+}
+
+.ranking-bloco {
+  margin-bottom: 40px;
+}
+
+.tabela {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #1f1f1f;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.tabela th,
+.tabela td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #333;
+}
+
+.tabela th {
+  background-color: #111;
+  color: #ccc;
+}
+
+.tabela td {
+  color: white;
+}
+
+.tabela tr:nth-child(even) {
+  background-color: #2a2a2a;
+}

@@ -1,0 +1,23 @@
+.footer {
+  background-color: #111;
+  color: #aaa;
+  padding: 20px;
+  text-align: center;
+  font-size: 13px;
+}
+
+.footer .links {
+  margin-bottom: 10px;
+}
+
+.footer .links img {
+  height: 24px;
+  margin: 0 10px;
+  vertical-align: middle;
+}
+
+.footer .links a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
